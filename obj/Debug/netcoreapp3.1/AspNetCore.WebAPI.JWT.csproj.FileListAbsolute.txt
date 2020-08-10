@@ -1,0 +1,5 @@
+F:\Desenvolvimento\Sistemas\AspNetCore.WebAPI.JWT\obj\Debug\netcoreapp3.1\AspNetCore.WebAPI.JWT.csprojAssemblyReference.cache
+F:\Desenvolvimento\Sistemas\AspNetCore.WebAPI.JWT\obj\Debug\netcoreapp3.1\AspNetCore.WebAPI.JWT.AssemblyInfoInputs.cache
+F:\Desenvolvimento\Sistemas\AspNetCore.WebAPI.JWT\obj\Debug\netcoreapp3.1\AspNetCore.WebAPI.JWT.AssemblyInfo.cs
+F:\Desenvolvimento\Sistemas\AspNetCore.WebAPI.JWT\obj\Debug\netcoreapp3.1\AspNetCore.WebAPI.JWT.csproj.CoreCompileInputs.cache
+F:\Desenvolvimento\Sistemas\AspNetCore.WebAPI.JWT\obj\Debug\netcoreapp3.1\AspNetCore.WebAPI.JWT.MvcApplicationPartsAssemblyInfo.cache
